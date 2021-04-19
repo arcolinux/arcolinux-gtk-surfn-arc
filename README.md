@@ -1,1 +1,1 @@
-# ArcoLinux gtk3 surfn
+# ArcoLinux gtk3 surfn arc
